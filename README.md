@@ -1,0 +1,2 @@
+# BasicInviterCore
+Basit Davet Uygulaması
